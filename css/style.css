@@ -71,7 +71,7 @@ main p:not(:last-child){
   margin-bottom: 2rem;
 }
 
-main h3:target {
+main h2:target {
   background-color: rgba(0, 0, 0, 0.7);
   color:rgb(76, 201, 87);
   padding-left: 1rem;
