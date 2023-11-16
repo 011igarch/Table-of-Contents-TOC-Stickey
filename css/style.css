@@ -75,4 +75,5 @@ main h3:target {
   background-color: rgba(0, 0, 0, 0.7);
   color:rgb(76, 201, 87);
   padding-left: 1rem;
+  border-radius: .8rem;
 }
